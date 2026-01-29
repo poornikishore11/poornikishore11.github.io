@@ -59,7 +59,7 @@ export const Hero = () => {
             </span>
             <div className="flex flex-col gap-2 mt-6">
               <a
-                href="mailto:poornigopikrishnan@gmail.com"
+                href="#contact"
                 className="flex flex-col group py-3 border-b border-white/5 last:border-0"
               >
                 <div className="flex items-center justify-between mb-1">

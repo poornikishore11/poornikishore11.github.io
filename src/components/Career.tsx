@@ -16,9 +16,7 @@ const careerPath: CareerItem[] = [
     role: "Frontend Engineer",
     period: "2026 — Present",
     workItems: [
-      "Optimized Next.js build times by 15% across large-scale enterprise monorepos.",
-      "Implemented advanced edge middleware patterns for dynamic content localization.",
-      "Spearheaded the migration of legacy design system components to Tailwind CSS v4."
+      "Working on Propsys360 frontend , to handle complaints from users and housing associations' correspondence to the users",
     ],
     color: "bg-primary"
   },
