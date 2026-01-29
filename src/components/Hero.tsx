@@ -77,24 +77,6 @@ export const Hero = () => {
               </a>
 
               <a
-                href="tel:+4407721376570"
-                className="flex flex-col group py-3 border-b border-white/5 last:border-0"
-              >
-                <div className="flex items-center justify-between mb-1">
-                  <div className="flex items-center gap-2 text-accent/60">
-                    <Phone className="w-3.5 h-3.5" />
-                    <span className="text-[10px] uppercase tracking-widest font-bold">
-                      Phone
-                    </span>
-                  </div>
-                  <ArrowUpRight className="w-3 h-3 opacity-20 group-hover:opacity-100 transition-opacity" />
-                </div>
-                <span className="text-lg font-medium font-display group-hover:text-accent transition-colors">
-                  +44(0)7721376570
-                </span>
-              </a>
-
-              <a
                 href="https://www.linkedin.com/in/poornikishore"
                 target="_blank"
                 rel="noopener noreferrer"
